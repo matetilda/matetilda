@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm currently learning GitHub.
+- I want to work on a  ML / data science project to introduce industry lingo, and I want to create a digital diary. 
+
 <!--
 **matetilda/matetilda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
